@@ -1,6 +1,6 @@
 <hr>
 <div id="header" align="center">
-    <img src="https://i.ibb.co/dQzjY98/wecancodeit.png" width="300"><br>
+    <img src="https://i.ibb.co/dQzjY98/wecancodeit.png" width="300" alt="WeCanCodeIt"><br>
       <a href="https://www.linkedin.com/in/hulyamartli/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
   <a href="https://www.freecodecamp.org/Guerillagi"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp Badge"></a>
   <a href="https://www.sololearn.com/profile/25684479"><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" alt="Sololearn Badge"></a>
