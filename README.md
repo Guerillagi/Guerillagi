@@ -16,7 +16,7 @@
 </div>
 <hr>
 <p allign="center"> Hey there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Waving Hand" width="30"></p>
-  <p>I am Hulya aka. Guerillagi. I started my coding journey when I was studying Chemical Engineering but I realized I want to spend my life surrounded with design and coding rather than pursuing engineering. Currently, I am working as Technical Support Specialist at Jotform and I am learning a lot about SAAS, HTML and form building.</p>
+  <p>I am Hulya aka. Guerillagi. I started my coding journey when I was studying Chemical Engineering but I realized I want to spend my life surrounded with design and coding rather than pursuing engineering. Currently, I am working as Technical Support Specialist at Jotform and I am learning a lot about CSS, HTML, form building and SAAS.</p>
 
 - 🔭 I’m currently working on Responsive Web Design.
 - 🌱 I’m currently learning HTML5, CSS3, Javascript, Bootstrap and Python.
