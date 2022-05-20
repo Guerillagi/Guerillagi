@@ -18,5 +18,5 @@
 
 - 👩🏻‍💻 I’m currently working on Responsive Web Design.
 - 🤓 I’m currently learning HTML5, CSS3, Javascript, Bootstrap and Python.
-- 👀 Ask me about anything you want, I'd be more that happy to help.
+- 👀 Ask me about anything you want, I'd be more than happy to help.
 <!--- - 🙆🏻‍♀️ Fun fact: If you are curious about what does Guerillagi mean scroll down :)</p> -->
